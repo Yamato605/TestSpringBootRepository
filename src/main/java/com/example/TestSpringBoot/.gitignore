@@ -17,3 +17,11 @@ Thumbs.db
 
 # VSCode settings (if used)
 .vscode/
+
+# Gradle wrapper files
+gradlew
+gradlew.bat
+gradle/
+
+# Optional: ignore .env or secret files
+.env
