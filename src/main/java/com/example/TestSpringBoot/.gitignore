@@ -1,0 +1,19 @@
+# ビルド出力
+/build/
+.gradle/
+target/
+
+# IDE関連
+.idea/
+*.iml
+
+# OSファイル
+.DS_Store
+Thumbs.db
+
+# その他
+# Logs
+*.log
+
+# VSCode settings (if used)
+.vscode/
